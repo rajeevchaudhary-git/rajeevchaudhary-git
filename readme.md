@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajeevchaudhary-git&label=Profile%20views&color=0e75b6&style=flat" alt="rajeevchaudhary-git" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and algorithm**
+- 🌱 I’m currently learning **Data Structures and algorithm **
 
 - 👨‍💻 All of my projects are available at [https://rajeev-chauhdhary-portfolio.vercel.app/](https://rajeev-chauhdhary-portfolio.vercel.app/)
 
-- 💬 Ask me about **react,express php**
+- 💬 Ask me about **react,express php,Sql**
 
 - 📫 How to reach me **https://rajeev-chauhdhary-portfolio.vercel.app/**
 
